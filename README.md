@@ -9,15 +9,12 @@
 <h1 align='center'> HELLO WOOOOORLD ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='80"'>
 
-### I'm A, Student at 👨‍💻 IIM DIGITAL SCHOOL PARIS - A2 DEV WEB. I am a tech and programming enthusiast, Would love see myself as a Web Developer in my later career.
+### I'm A, Student at 👨‍💻 IUT of Blois. I am a tech and programming enthusiast, Would love see myself as a Web Developer & Designer in my later career.
 -------
 
 <h2 align="left">👨🏻‍💻  What I learn currently:</h2>
 
 - :computer: Javascript
-- :computer: VusJS
-- :computer: NodeJS
-- :computer: Laravel
 - :computer: Wireframes & UX
 - :computer: Wordpress
 - :computer: PHP OOP
